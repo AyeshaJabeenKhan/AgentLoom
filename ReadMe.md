@@ -132,4 +132,4 @@ Pass this registry to your agent to let it use your new function.
 
 ## License
 
-Free to use for learning or portfolio projects.
+[MIT](LICENSE) © 2026 Ayesha Jabeen
