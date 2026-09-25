@@ -132,4 +132,4 @@ Pass this registry to your agent to let it use your new function.
 
 ## License
 
-[MIT](LICENSE) © 2026 Ayesha Jabeen
+Distributed under the MIT License. See `LICENSE` for more information.
